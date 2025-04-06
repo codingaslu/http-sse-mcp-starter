@@ -1,6 +1,6 @@
 # MCP Server with Wikipedia Article Tool
 
-This is an HTTP SSE-based MCP (Managed Control Protocol) server that features a tool for fetching and converting Wikipedia articles to Markdown.
+This is an HTTP SSE-based MCP (Model Context Protocol) server that features a tool for fetching and converting Wikipedia articles to Markdown.
 
 ## Features
 
